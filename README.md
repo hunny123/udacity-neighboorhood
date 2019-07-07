@@ -15,3 +15,5 @@ This project was part of Front-End Web Developer Nanodegree Program.This is a si
 3. This mode support service worker
 # Google map development purpose Error :
 Since google change its policy regarding api usage because of this it shows 'this map is use for development purpose'
+# live demo;
+https://still-fjord-29116.herokuapp.com/
